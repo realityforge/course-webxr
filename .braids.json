@@ -1,5 +1,10 @@
 {
   "config_version": 1,
   "mirrors": {
+    "vendor/Learn-WebXR": {
+      "url": "https://github.com/NikLever/Learn-WebXR.git",
+      "branch": "master",
+      "revision": "a055ef2a7bb7a51a864552a87b7652ab357750f8"
+    }
   }
 }
